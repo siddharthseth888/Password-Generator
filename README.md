@@ -23,7 +23,8 @@ npm i
 npm run dev
 ```
 
-##Optional
+## Optional
+
 if this doesn't work create a separate vite project file using this ->
 
 ```bash
