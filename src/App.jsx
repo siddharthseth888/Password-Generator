@@ -1,6 +1,6 @@
 import { useState, useCallback, useEffect, useRef } from 'react'
 
-function App() {
+function App() { 
 
   //All hooks
   const [length, setLength] = useState(8)
