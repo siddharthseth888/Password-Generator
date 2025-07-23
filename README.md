@@ -8,9 +8,32 @@ You can access this by forking this repository in your localsystem.
 
 To get into your localsystem and play with it ->
 
+Create a vite project for react+javascript
+
+
 ```bash
 git clone https://github.com/siddharthseth888/Password-Generator
 ```
+
+```bash
+npm i
+```
+
+```
+npm run dev
+```
+
+##Optional
+if this doesn't work create a separate vite project file using this ->
+
+```bash
+npm create vite@latest
+```
+
+```bash
+cd ${vite_project directory}
+```
+and then run the above command
 
 Thank you for Reading!
 Happy Coding
