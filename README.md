@@ -5,7 +5,7 @@ This is a project for creating a Random password.
 You can access this by forking this repository in your localsystem or try it using this link:
 Live Demo:
 
-[](password-generator-eta-blush.vercel.app)
+[password-generator-eta-blush.vercel.app](password-generator-eta-blush.vercel.app)
 
 ## Using hooks and other React toolkits to generate password.
 
